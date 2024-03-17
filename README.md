@@ -13,7 +13,7 @@ Enthusiastic coder on a quest for mastery, fueled by curiosity and driven by the
 
 #### 🛠️ My Projects
 
-You can explore the results of my hard work and dedication in my [**Scriptorium**](link-to-scriptorium-repo) repository. It's where I document my coding adventures, experiment with different technologies, and showcase my progress towards my web development goals.
+You can explore the results of my hard work and dedication in my [**Scriptorium**](https://github.com/dzikriemursyid/scriptorium) repository. It's where I document my coding adventures, experiment with different technologies, and showcase my progress towards my web development goals.
 
 #### 🎨 My Portfolio
 
