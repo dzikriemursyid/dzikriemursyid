@@ -17,7 +17,7 @@ You can explore the results of my hard work and dedication in my [**scriptorium*
 
 ### 🎨 My Portfolio
 
-Visit my [portfolio](link-to-portfolio) to see the projects I've worked on. From simple static websites to interactive web applications, I pour my heart and soul into every line of code. You might even find some fun mini-games to enjoy!
+Visit my [portfolio](https://dzikrie-personal-site.netlify.app/) to see the projects I've worked on. From simple static websites to interactive web applications, I pour my heart and soul into every line of code. You might even find some fun mini-games to enjoy!
 
 ### 💬 Motivation
 
@@ -25,4 +25,4 @@ As someone who has always been fascinated by programming, I'm thrilled to finall
 
 #### 📚 Languages and Tools
 
-![HTML](assets/img/html.png)![CSS](assets/img/css.png)![Bootstrap](assets/img/bootstrap.png)![Javascript](assets/img/javascript.png)![React.js](assets/img/react-js.png)
+![HTML](assets/img/html.png)![CSS](assets/img/css.png)![Bootstrap](assets/img/bootstrap.png)![Javascript](assets/img/javascript.png)![React.js](assets/img/react-js.png)![Astro.js](assets/img/astro-js.png)
