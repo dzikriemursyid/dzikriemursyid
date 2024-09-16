@@ -6,10 +6,9 @@ Enthusiastic coder on a quest for mastery, fueled by curiosity and driven by the
 
 ### 🚀 About Me
 
-1. 🎓 Studying at Jakarta State University, majoring in education.
-2.  💻 Passionate about web development and programming.
-3.  🎯 Currently learning React, Angular, and Vue.js, along with other languages like PHP.
-4.  📈 Striving to build practical projects and enhance my skills with each line of code written.
+1.  💻 Passionate about web development and programming.
+2.  🎯 Currently learning React, Angular, and Vue.js, along with other languages like PHP.
+3.  📈 Striving to build practical projects and enhance my skills with each line of code written.
 
 ### 🛠️ My Projects
 
